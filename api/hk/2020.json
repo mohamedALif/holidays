@@ -1,0 +1,74 @@
+[
+  {
+    "name": "New Year's Day",
+    "date": "2020-01-01"
+  },
+  {
+    "name": "Chinese Lunar New Year's Day",
+    "date": "2020-01-25"
+  },
+  {
+    "name": "Third day of Chinese Lunar New Year",
+    "date": "2020-01-27"
+  },
+  {
+    "name": "Fourth day of Chinese Lunar New Year",
+    "date": "2020-01-28"
+  },
+  {
+    "name": "Tomb Sweeping Day",
+    "date": "2020-04-04"
+  },
+  {
+    "name": "Good Friday",
+    "date": "2020-04-10"
+  },
+  {
+    "name": "Holy Saturday",
+    "date": "2020-04-11"
+  },
+  {
+    "name": "Easter Monday",
+    "date": "2020-04-13"
+  },
+  {
+    "name": "Buddha's Birthday",
+    "date": "2020-04-30"
+  },
+  {
+    "name": "Labour Day",
+    "date": "2020-05-01"
+  },
+  {
+    "name": "Dragon Boat Festival",
+    "date": "2020-06-25"
+  },
+  {
+    "name": "Hong Kong Special Administrative Region Establishment Day",
+    "date": "2020-07-01"
+  },
+  {
+    "name": "National Day of the People's Republic of China",
+    "date": "2020-10-01"
+  },
+  {
+    "name": "Day after Mid-Autumn Festival",
+    "date": "2020-10-02"
+  },
+  {
+    "name": "Chung Yeung Festival",
+    "date": "2020-10-25"
+  },
+  {
+    "name": "Day off for Chung Yeung Festival",
+    "date": "2020-10-26"
+  },
+  {
+    "name": "Christmas Day",
+    "date": "2020-12-25"
+  },
+  {
+    "name": "Boxing Day",
+    "date": "2020-12-26"
+  }
+]
